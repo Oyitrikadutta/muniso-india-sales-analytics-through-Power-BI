@@ -1,4 +1,4 @@
-# Miniso India Retail Sales Analytics Dashboard (2025)
+# MUniso India Retail Sales Analytics Dashboard (2025)
 
 An end-to-end Business Intelligence project developed in **Microsoft Power BI Desktop** analyzing retail transaction trends, product category velocity, and store-level revenue distributions across major metropolitan hubs in India for calendar year 2025.
 
